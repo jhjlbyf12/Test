@@ -34,6 +34,7 @@ int main() {
 		if (!hasCompleteNumber) cout << -1 << endl; // Выводим -1, если не нашли хотя бы одно совершенное число в текущем тесте
 	}
 	cout << "nkuihoinhop";
+	cout << "lihoii";
 }
 
 
